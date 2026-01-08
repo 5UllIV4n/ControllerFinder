@@ -1,8 +1,9 @@
-`  
+```
 ▞▀▖      ▐        ▜▜        ▛▀▘▗    ▛▀▖      
 ▌  ▞▀▖▛▀▖▜▀ ▙▀▖▞▀▖▐▐ ▞▀▖▙▀▖ ▙▄ ▄ ▛▀▖▌ ▌▞▀▖▙▀▖
 ▌ ▖▌ ▌▌ ▌▐ ▖▌  ▌ ▌▐▐ ▛▀ ▌   ▌  ▐ ▌ ▌▌ ▌▛▀ ▌  
-▝▀ ▝▀ ▘ ▘ ▀ ▘  ▝▀  ▘▘▝▀▘▘▀▀▀▘  ▀▘▘ ▘▀▀ ▝▀▘▘  `
+▝▀ ▝▀ ▘ ▘ ▀ ▘  ▝▀  ▘▘▝▀▘▘▀▀▀▘  ▀▘▘ ▘▀▀ ▝▀▘▘
+```
 I made this project to see if I could shrink some code from the website https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API
 
 the original code was about 132 lines long, and I managed to shrink it down to around 20 lines. it’s a bit messy but I was able to make it work
