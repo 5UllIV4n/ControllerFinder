@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    color: rgb(195, 197, 204);
+    background: #0c0d72;
+}
+
+p, h1{
+    text-transform: capitalize;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+    font-size: larger;
+}
+.andU {
+    opacity: 0.8;
+    animation: loadingspin 20s linear infinite;
+    animation: Fade 1.4s infinite both;
+}
+
+@keyframes Fade  {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+
